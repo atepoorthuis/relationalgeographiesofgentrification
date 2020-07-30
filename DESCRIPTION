@@ -1,0 +1,33 @@
+Package: relationalgeographiesofgentrification
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: bookdown,
+    here,
+    cartography (>= 2.4.1),
+    cowplot (>= 1.0.0),
+    furrr (>= 0.1.0),
+    grid (>= 4.0.1),
+    knitr (>= 1.28),
+    lubridate (>= 1.7.9),
+    magick (>= 2.4.0),
+    mapedit (>= 0.6.0),
+    osmdata (>= 0.1.3),
+    sf (>= 0.9-3),
+    tidycensus (>= 0.9.9.5),
+    tidyverse (>= 1.3.0),
+    tmap (>= 3.0),
+    tmaptools (>= 3.0)
+Suggests: devtools,
+    git2r

@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.DS_Store
+/analysis/02-figures_cache/
+/analysis/01-prepare-twitter-data_cache/
+/analysis/data/derived_data/user_home_total.rds
+/analysis/data/derived_data/lexington-2012-2018-homeloc.rds
+/analysis/data/derived_data/lexington-2012-2018-tract.rds
+/analysis/data/derived_data/user_home.rds
+/analysis/data/raw_data/lexington-2012-2018.csv
