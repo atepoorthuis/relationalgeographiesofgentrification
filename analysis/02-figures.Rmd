@@ -1,6 +1,6 @@
 ---
-title: "Analysis & Figrues"
-output: html_document
+title: "Analysis & Figures"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
