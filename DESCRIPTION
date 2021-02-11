@@ -1,12 +1,20 @@
 Package: relationalgeographiesofgentrification
-Title: What the Package Does (One Line, Title Case)
+Title: Compendium Package for Changing Neighborhoods Shifting Connections
 Version: 0.0.0.9000
 Authors@R:
-    person(given = "First",
-           family = "Last",
+    person(given = "Ate",
+           family = "Poorthuis",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+           email = "ate.poorthuis@kuleuven.be")
+    person(given = "Taylor",
+           family = "Shelton",
+           role = c("aut"),
+           email = "jshelton19@gsu.edu")
+    person(given = "Matthew",
+           family = "Zook",
+           role = c("aut"),
+           email = "zook@uky.edu")
+Description: Compendium Package for Changing Neighborhoods Shifting Connections
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
