@@ -4,6 +4,7 @@
 # Changing neighborhoods, shifting connections: mapping relational geographies of gentrification using social media data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atepoorthuis/relationalgeographiesofgentrification/master?urlpath=rstudio)
+[![DOI](https://zenodo.org/badge/283771059.svg)](https://zenodo.org/badge/latestdoi/283771059)
 
 This repository contains the data and code for our paper “Changing
 neighborhoods, shifting connections: mapping relational geographies of
@@ -15,8 +16,9 @@ This repository contains the data and code for our paper:
 > Poorthuis, A, T. Shelton and M. Zook, (2021). *Changing neighborhoods,
 > shifting connections: mapping relational geographies of gentrification
 > using social media data.*. Urban Geography. Online at
-> <http://dx.doi.org/10.1080/02723638.2021.1888016> Our pre-print is
-> online here:
+> <http://dx.doi.org/10.1080/02723638.2021.1888016>
+
+Our pre-print is online here:
 
 > Poorthuis, A, T. Shelton and M. Zook, (2021). *Changing neighborhoods,
 > shifting connections: mapping relational geographies of gentrification

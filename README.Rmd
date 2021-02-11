@@ -16,6 +16,7 @@ Title <- "Changing neighborhoods, shifting connections: mapping relational geogr
 
 # Changing neighborhoods, shifting connections: mapping relational geographies of gentrification using social media data
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atepoorthuis/relationalgeographiesofgentrification/master?urlpath=rstudio)
+[![DOI](https://zenodo.org/badge/283771059.svg)](https://zenodo.org/badge/latestdoi/283771059)
 
 This repository contains the data and code for our paper "Changing neighborhoods, shifting connections: mapping relational geographies of gentrification using social media data". The structure of this folder has been created with [rrtools](https://github.com/benmarwick/rrtools).
 
@@ -23,6 +24,8 @@ This repository contains the data and code for our paper "Changing neighborhoods
 This repository contains the data and code for our paper:
 
 > Poorthuis, A, T. Shelton and M. Zook, (2021). _`r Title`_. Urban Geography. Online at <http://dx.doi.org/10.1080/02723638.2021.1888016>
+
+
 Our pre-print is online here:
 
 > Poorthuis, A, T. Shelton and M. Zook, (2021). _`r Title`_. Urban Geography, Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/10.31235/osf.io/y7dxf>
