@@ -22,8 +22,8 @@ Our pre-print is online here:
 
 > Poorthuis, A, T. Shelton and M. Zook, (2021). *Changing neighborhoods,
 > shifting connections: mapping relational geographies of gentrification
-> using social media data.*. Urban Geography, Accessed 11 Feb 2021.
-> Online at <https://doi.org/10.31235/osf.io/y7dxf>
+> using social media data.*. Urban Geography, Accessed 01 Mar 2021.
+> Online at <https://osf.io/preprints/socarxiv/eq6vm/>
 
 ## Contents
 
@@ -38,6 +38,10 @@ results and figures in our paper.
 -   [analysis/02-figures.Rmd](analysis/02-figures.md): This contains all
     the analytical and visualization steps needed to reproduce each
     figure in our analysis.
+-   [figures/](figures/): Contains a high-resolution version of the
+    figures in the paper. Unfortunately, the published version in *Urban
+    Geography* contains only a down-sampled low-resolution version,
+    which can make some of the figures difficult to read.
 
 ## How to download or install
 
